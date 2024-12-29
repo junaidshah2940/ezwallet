@@ -1,0 +1,6 @@
+EstimationV1.md -> NC = estimated number of classes to be developed: controllers[auth.js, controller.js, custom_class.js], models[custom_class.js, model.js], routes[route.js], views[landing.jsx, login.jsx, signup.jsx, homepage.jsx, add_transaction.jsx, add_category.jsx], models[model.js, custom_class.js], server.js, app.js
+
+NC = ~15
+A = ~80
+
+Chiedere al prof maggiori info per il gantt
